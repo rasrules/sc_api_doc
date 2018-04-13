@@ -11,3 +11,4 @@ Endpoints
 
    Submissions<submissions>
    Responses<responses>
+   Scores<scores>
